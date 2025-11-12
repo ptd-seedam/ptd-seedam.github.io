@@ -51,7 +51,6 @@ Dự án xây dựng hệ thống quản lý thư viện toàn diện với 3 ph
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ptd-seedam&show_icons=true&theme=radical&count_private=true" height="180" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptd-seedam&layout=compact&theme=radical" height="180" alt="top langs" />
 </div>
 
